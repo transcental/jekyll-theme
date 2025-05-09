@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: glossy-amber
+description: "Glossy Amber is a Jekyll theme built to be clean, modern and warm"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
