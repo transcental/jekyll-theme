@@ -1,4 +1,6 @@
 ---
+title: Glossy Amber
 ---
 
-# tonic-starter
+# Glossy Amber
+Glossy Amber is a simple Jekyll theme that is designed to look modern and warm!
